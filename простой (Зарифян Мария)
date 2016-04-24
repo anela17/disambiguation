@@ -1,0 +1,17 @@
+@@простой  + t:hum/t:hum:etn; semf='r:qual t:humq t:behav ev:posit';Ex:А. простой человек
+
+@@простой  +  t:game/t:ment/t:text/t:food; semf='r:qual ev; Ex:А. простые правила игры, простая задача, простой вопрос, книга написана простым языком
+
+@@простой  + t:pattern/t:workart; semf='r:rel t:appearance; Ex:А.простой рисунок, простой узор
+
+@@простой + карандаш; semf2='r:rel t:physq:color';
+
+@@простой + t:tool:cloth; semf2='r:qual ev; Ex:А. простая одежда, простое платье
+
+@@простой + смертный; t:hum; semf2='r:rel t:humq ev:neg
+
+@@простой + hi:class t:stuff; semf2='r:rel‘ Ex:А. простые углеводы
+
+@@простой + вода; semf2='r:rel t:physq’
+
+@@простой + число; semf2='r:rel’
