@@ -1,0 +1,17 @@
+@@высокий + уровень/оценка/показатель/цена/класс/качество/разрешение; semf2=’r:qual t:degr:max der:shift dt:size:max’;
+
+@@высокий + технологии; semf2=’r:rel der:shift dt:size:max mw’;
+
+@@высокий + гости/начальство/положение/авторитет/чин; semf2='r:rel ev:posit t:degr:max der:shift dt:size:max ';
+
+@@высокий + голос; semf2='r:qual t:sound der:shift dt:size:max’;
+
+@@высокий + мода; semf2='r:rel ev:posit der:shift dt:size:max mw’;
+
+@@высокий + нагрузки/заработок/доход/явка/доля/пенсия/зарплата/содержание; semf2=’r:qual t:quant:max der:shift dt:size:max’;
+
+@@высокий + слова/чувства/культура/ цель/дела; semf2=’r:rel ev:posit der:shift dt:size:max’;
+
+@@высокий + r:abstr; semf2='r:qual t:degr:max der:shift dt:size:max '; Ex: Высокая плотность
+
+@@высокий + r:concr; semf='r:qual t:size:max'; Ex: Высокое дерево
