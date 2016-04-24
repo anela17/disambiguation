@@ -1,0 +1,21 @@
+@@длинный&A&brev + [-2..2] + r:concr;semf='r:qual t:size:max der:a dt:size ev:neg'; Ex:Платье было длинно 
+
+@@длинный&A&brev + [-2..2] + r:abstr;semf='r:qual t:size:max der:a dt:size ev:neg'; Ex:Длинна ночь 
+
+@@длинный + песня;semf2='r:qual t:dur:max'; 
+
+@@длинный + рубль;semf2='r:qual ev:neg der:shift dt: size:max mw ';
+
+@@длинный + язык;semf2='r:rel ev:neg der:shift dt:size:max mw';
+
+@@длинный + юбка/трещина/хвост/глава/дорога/струна/ухо/ряд/список/очередь ;semf='r:qual t:size:max'; 
+
+@@длинный + кадр/история;semf='r:qual t:dur:max'; 
+
+@@длинный + t:time;semf='r:qual t:time:dur:max'; Ex:Длинный день
+
+@@длинный + t:hum;semf2='r:qual t:size:max’; Ex:Длинный молодой человек
+
+@@длинный + r:abstr;semf='r:qual t:dur:max'; Ex:Длинная беседа
+
+@@длинный + r:concr;semf='r:qual t:size:max'; Ex:Длинные волосы
