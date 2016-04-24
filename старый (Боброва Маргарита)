@@ -1,0 +1,11 @@
+@@старый + t:hum/t:hum:etn/t:hum:kin/t:animal; semf=’r:qual t:time:age:max’; Ex: Старый человек
+
+@@старый + r:concr; semf=’r:qual t:time:age’; Ex: Старый университет
+
+@@старый + r:concr/r:abstr; semf2=’r:rel t:time’; Ex: Старый адрес
+
+@@старый + друг/товарищ/приятель/знакомый; semf2=’r:qual t:humq t:time ev:posit’;
+
+@@старый + дева; semf2=’r:qual t:humq ev:neg’;
+
+@@старый + воробей; semf2=’r:qual t:humq ev:posit’;
