@@ -1,0 +1,19 @@
+@@добрый + молодец/ гений; ‘semf2=‘r:rel ev:posit der:shift dt:humq mw’
+
+@@добрый + t:hum|t:hum:kin|t:hum:etn|t:animal; semf=‘r:qual t:humq ev:posit der:s &amp; dt:hum’; Ex:А.человек/ малый/ женщина/ мать/ отец/ старик/ конь/друг
+
+@@добрый + pt:partb &amp; pc:hum; semf2=‘r:qual ev:posit der:shift dt:humq’; Ex:А.добрые руки, добрые глаза
+
+@@добрый + день/вечер/утро/ час/ времена; semf2=‘r:rel ev:posit t:time der:shift dt:humq mw’
+
+@@добрый + воля; semf2=‘r:rel ev:posit mw der:shift dt:psych:volit’
+
+@@добрый + путь; semf2=‘r:rel der:shift dt:dir mw’
+
+@@добрый + здоровье; semf2=‘r:rel t:physq ev:posit’
+
+@@добрый + t:food; semf2=‘r:qual ev:posit der:shift dt:physq:taste’; Ex:А.доброе вино
+
+@@добрый + половина/ десяток; semf2=‘r:rel t:quant:max’
+
+@@добрый + t:abstr; semf=‘ r:qual ev:posit der:shift dt:humq’; Ex:А.доброе дело, добрые намерения
