@@ -1,0 +1,39 @@
+@@полный + t:hum ev:neg = ‘r:qual t:degr:max:magn'
+
+@@полный + граф = ‘r:rel dt:content mw’
+
+@@полный + хозяин = ‘r:qual t:degr:max t:appearance'
+
+@@полный + t:hum/t:hum:kin/t:hum:etn = ‘r:qual t:appearance t:size'
+
+@@полный + t:abstr =  ‘r:qual t:degr:max'
+
+@@полный + тон = ‘(r:rel dt:content mw)|(r:qual t:degr:max) ’
+
+@@полный + семья = ‘r:rel dt:content’
+
+@@полный + наименование = ‘r:rel dt:content’
+
+@@полный + мера = ‘r:rel dt:content’
+
+@@полный + пакет = ‘r:rel t:content'
+
+@@полный + затмение = ‘r:rel t:content'
+
+@@полный + луна = ‘r:rel t:content'
+
+@@полный + ‘t:time:period’ = ‘r:rel t:content'
+
+@@полный + чаша = ‘r:qual t:content mw’
+
+@@полный + t:tool:dish = ‘r:qual t:content’
+
+@@полный + грудь = ‘r:qual t:content t:appearance’
+
+@@полный + рот = ‘r:qual t:content’
+
+@@полный + лёгкое = ‘r:qual t:content’
+
+@@полный + ухо = ‘r:qual t:content’
+
+@@полный + r:concr & (pt:partb & pc:hum) = ‘r:qual t:appearance t:size'
