@@ -1,0 +1,21 @@
+@@последний + переулок; semf='r:propn'; Ex:А. Последний переулок
+
+@@последний + S; semf2='r:rel ev:posit der:shift dt:humq'; Ex:А. Последний дом
+
+@@последний + r:abstr; semf2='r:rel der:shift ev:posit, t:physq:temper t:time'; Ex:А. Последний тренд/последняя коллекция/последние новости
+
+@@последний + pt:qtm; semf2='r:rel ev:neg der:shift t:degr:max'; Ex:A. Последняя капля
+
+@@последнее + слово; semf2='r:rel t:degr:max t:time'; 
+
+@@последний + t:speech|t:contact; semf2='r:rel der:shift t:degr:max'; Ex:A. Последнее объетие
+
+@@последний + негодяй; semf2='r:rel ev:neg t:degr:max dt:humq';
+
+@@последний + же/из + S/S-PRO; semf2='r:rel t:time der:shift '; Ex:A. Последний из нас
+
+@@последний + час/минута/секунда; semf2='r:rel t:degr:max t:time';
+
+@@последний + герой; semf2='r:rel ev:posit t:degr:max t:time';
+
+@@последний + человек; semf2='r:rel ev:neg t:degr:max dt:humq';
