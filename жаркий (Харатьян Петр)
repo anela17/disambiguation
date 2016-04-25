@@ -1,0 +1,13 @@
+@@жаркий +слеза;semf2=‘r:qual t:physq:temper’
+@@жаркий + лицо;semf2=‘r:qual t:physq:temper’
+@@жаркий + спор/прения;semf2=‘r:qual der:shift dt:degr:max dt:physq:temper’
+
+@@жаркий + t:weather;semf2=‘r:qual t:physq:temper’ Ex: погода
+@@жаркий + t:time;semf2=‘r:qual t:physq:temper’ Ex: Жаркий день
+@@жаркий +t:sound;semf2=‘r:qual der:shift dt:degr:max dt:physq:temper’ Ex: шепот, аплодисменты
+@@жаркий + t:space;semf2=‘r:qual t:physq:temper’ Ex: область
+@@жаркий +t:light;semf2=‘r:qual t:physq:temper’ Ex: луч
+@@жаркий + t:psych;semf2=‘r:qual der:shift dt:degr:max dt:physq:temper’ Ex: восхищение
+
+@@жаркий +r:concr;semf2=‘r:qual t:physq:temper’
+@@жаркий + r:abstr;semf2=‘r:qual t:physq:temper’
